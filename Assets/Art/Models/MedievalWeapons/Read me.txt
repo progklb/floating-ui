@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------------------------------
+IMPORTANT
+------------------------------------------------------------------------------------------------------
+
+Please note that this is a paid-for item and may not be redistributed with the autor's consent.
+The files included have been purchased by myself for usage within this application.
+Also note that not all files are included - I have stripped unused assets from the pack.
+
+Author profile: https://www.assetstore.unity3d.com/en/#!/search/page=1/sortby=popularity/query=publisher:23465
+Asset profile:	https://www.assetstore.unity3d.com/en/#!/content/71949
+
+------------------------------------------------------------------------------------------------------
+ASSET STORE DESCRIPTION
+------------------------------------------------------------------------------------------------------
+
+PBR Medieval Weapons Pack (I part)
+by Sroadeeer
+
+Requires Unity 5.4.0 or higher.
+That pack consist 30 medieval melee weapons. Every model have 3 textures-albedo,normal and specular or metallic.
+
+Textures resolution-4096.
+But for first open,i choose 2048.
+If you want 4k-just click on the textures and choose-max size 4098.
+All textures in jpeg format
+
+Weapons in pack:
+1.Swords-5 one handed and 3 two handed
+2.Axes-4
+3.War hammers-3
+4.Knifes-3
+5.Poleaxes-3
+6.Spears-2
+7.Maces-4
+8.Clubs-3
+
